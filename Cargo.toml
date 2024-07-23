@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+    "server",
+    "client",
+    "exchange_client",
+    "orderbook",
+    "data_models"
+]
